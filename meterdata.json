@@ -1,0 +1,16 @@
+{"meteraddress":["http://172.19.7.21","http://172.19.7.22","http://172.19.7.23",
+"http://172.19.7.24","http://172.19.7.25","http://172.19.7.26","http://172.19.7.27",
+"http://172.19.7.28","http://172.19.7.29","http://172.19.7.30","http://172.19.7.31",
+"http://172.19.7.33","http://172.19.7.34","http://172.19.7.35",
+"http://172.19.7.36","http://172.19.7.37","http://172.19.7.39",
+"http://172.19.7.40","http://172.19.7.41","http://172.19.7.42",
+"http://172.19.7.43"],
+"metername":["Main","TX-1/Panel A","TX-3/Panel B","Exterior Lighting",
+"Vehicle Charger 1","Vehicle Charger 2","Panel C1","Panel C2","Panel C3","Panel C4",
+"Nature's Classroom","Ceiling Fans","Exhaust Fans",
+"HRV","ERV","FC-1","OU-1","Well-Bal","Bio","DH2","DH1"],
+"filename":["Main","TX1","TX3","ExtLight",
+"Charger1","Charger2","PanelC1","PanelC2","PanelC3","PanelC4",
+"NatureClass","CeilingFan","ExhaustFans",
+"HRV","ERV","FC1","OU1","WellBal","Bio","DH2","DH1"]}
+
